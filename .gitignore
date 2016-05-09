@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/android
 
 ### Android ###
+=======
+>>>>>>> Ex_13.3_RedDevils/master
 # Built application files
 *.apk
 *.ap_
@@ -15,7 +18,10 @@
 # Generated files
 bin/
 gen/
+<<<<<<< HEAD
 out/
+=======
+>>>>>>> Ex_13.3_RedDevils/master
 
 # Gradle files
 .gradle/
@@ -35,6 +41,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+<<<<<<< HEAD
 
 # Intellij
 *.iml
@@ -45,3 +52,5 @@ captures/
 ### Android Patch ###
 gen-external-apklibs
 
+=======
+>>>>>>> Ex_13.3_RedDevils/master
